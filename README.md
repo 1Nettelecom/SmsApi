@@ -4,7 +4,7 @@
 To get the latest version of Netsms simply require it in your `composer.json` file.
 
 ~~~
-"kubpro/netsms" : "dev-master" or composer require kubpro/netsms "dev-master"
+"kubpro/netsms" : "dev-master" or composer require 1nettelekom/netsms "dev-master"
 ~~~
 
 
